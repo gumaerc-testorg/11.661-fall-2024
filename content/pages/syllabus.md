@@ -14,7 +14,7 @@ Recitations: 1 session/week, 1.5 hours/session 
 
 ## Prerequisites
 
-The prerequisites for this course are intermediate microeconomics (including basic duality) and familiarity with econometrics at the level of [*Mostly Harmless Econometrics*](https://www.mostlyharmlesseconometrics.com/). For courses covering this background material, see [*14.04 Intermediate Microeconomic Theory*](https://ocw.mit.edu/courses/14-04-intermediate-microeconomic-theory-fall-2020/) and [*14.32 Econometrics*](https://ocw.mit.edu/courses/14-32-econometrics-spring-2007) on MIT OpenCourseWare.
+The prerequisites for this course are intermediate microeconomics (including basic duality) and familiarity with econometrics at the level of {{% resource_link "51cb9ad7-a093-4fed-8906-89c8702265b0" "*Mostly Harmless Econometrics*" %}}. For courses covering this background material, see {{% resource_link "31c8352a-9a30-46de-8ec8-d5979f87f4bb" "*14.04 Intermediate Microeconomic Theory*" %}} and {{% resource_link "cf29b31c-9562-44ee-a4f9-fa117fc22880" "*14.32 Econometrics*" %}} on MIT OpenCourseWare.
 
 ## Description
 
